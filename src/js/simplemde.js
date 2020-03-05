@@ -1,5 +1,4 @@
 /*global require,module*/
-// add commment
 "use strict";
 var CodeMirror = require("codemirror");
 require("codemirror/addon/edit/continuelist.js");
